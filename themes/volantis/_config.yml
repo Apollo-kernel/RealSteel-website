@@ -511,7 +511,7 @@ sidebar:
         - icon: fa-solid fa-envelope
           url: mailto:me@apollo@ecjtu.edu.cn
         - icon: fab fa-github
-          url: github.com/Apollo-kernel/RealSteel-website/
+          url: https://github.com/Apollo-kernel/RealSteel-website/
         # - icon: fa-solid fa-headphones-alt
         #   url: /
     # ---------------------------------------
