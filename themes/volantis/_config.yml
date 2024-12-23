@@ -816,8 +816,8 @@ plugins:
     css: volantis-static/libs/aplayer/dist/APlayer.min.css # https://unpkg.com/aplayer@1.10/dist/APlayer.min.css
     # Required
     server: netease   # netease, tencent, kugou, xiami, baidu
-    type: playlist    # song, playlist, album, search, artist
-    id: 6927872292    # song id / playlist id / album id / search keyword
+    type: song    # song, playlist, album, search, artist
+    id: 34341419    # song id / playlist id / album id / search keyword
     # Optional
     fixed: false      # enable fixed mode
     theme: '#1BCDFC'  # main color
