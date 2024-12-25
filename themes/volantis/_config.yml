@@ -819,7 +819,7 @@ plugins:
     type: song    # song, playlist, album, search, artist
     id: 34341419    # song id / playlist id / album id / search keyword
     # Optional
-    fixed: true      # enable fixed mode
+    fixed: false      # enable fixed mode
     theme: '#1BCDFC'  # main color
     autoplay: true   # audio autoplay
     order: list       # player play order, values: 'list', 'random'
