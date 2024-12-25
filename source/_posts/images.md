@@ -5,7 +5,7 @@ tags: Infantry
 categories: [Testing]
 ---
 
-{% video https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252137120.mp4 %}
+{% video https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252328853.mp4 %}
 
 <!-- more -->
 
