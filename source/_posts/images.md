@@ -1,29 +1,47 @@
 ---
-title: Images
-date: 2024-12-20 12:34:56
+title: hey bro
+date: 2024-12-25 21:40:35
+tags: Infantry
+categories: [Testing]
 ---
 
+{% video https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252137120.mp4 %}
 
-This is a image test post.
-
-{% gallery %}
-![Picture description](https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/025.jpg)
-{% endgallery %}
-
+<!-- more -->
 
 {% gallery %}
-![](https://cdn.jsdelivr.net/gh/hexojs/hexo-theme-unit-test@master/source/assets/wallpaper-2572384.jpg)
-{% endgallery %}
-
-
-{% gallery %}
-![Caption](https://cdn.jsdelivr.net/gh/hexojs/hexo-theme-unit-test@master/source/assets/wallpaper-2311325.jpg)
+![](https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252307988.jpg)
 {% endgallery %}
 
 {% gallery %}
-![](https://cdn.jsdelivr.net/gh/hexojs/hexo-theme-unit-test@master/source/assets/wallpaper-878514.jpg)
+![](https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252308973.jpg)
 {% endgallery %}
 
 {% gallery %}
-![Small Picture](https://placehold.it/350x150.jpg)
+
+![](https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252309111.jpg)
+
+{% endgallery %}
+
+{% gallery %}
+![](https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252311118.jpg)
+
+{% endgallery %}
+
+{% gallery %}
+![](https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252311034.jpg)
+
+{% endgallery %}
+
+{% gallery %}
+![](https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252311163.jpg)
+
+{% endgallery %}
+{% gallery %}
+![](https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252312930.jpg)
+
+{% endgallery %}
+{% gallery %}
+![](https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252312365.jpg)
+
 {% endgallery %}

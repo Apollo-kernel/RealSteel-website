@@ -259,9 +259,9 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: https://profile-avatar.csdnimg.cn/c4a0bec50e084d36b678456859f6d2b4_qq_45507678.jpg
+        avatar: https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252056917.svg
         name: Apollo
-        url: apollo6.me/
+        url: https://apollo6.me/
       # 文章创建日期
       date:
         icon: fa-solid fa-calendar-alt
@@ -508,11 +508,11 @@ sidebar:
       social:
         # - icon: fa-solid fa-rss
         #   url: /atom.xml
-        - icon: fa-solid fa-envelope
+        - img: https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252100761.svg
           url: mailto:me@apollo@ecjtu.edu.cn
-        - img: https://www.svgrepo.com/download/330508/gitee.svg
+        - img: https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252036132.svg
           url: https://gitee.com/ecjtu-realsteel/
-        - icon: fab fa-github
+        - img: https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252059850.svg
           url: https://github.com/Apollo-kernel/RealSteel-website/
         # - icon: fa-solid fa-headphones-alt
         #   url: /
@@ -636,11 +636,11 @@ site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
   layout: [aplayer, social] # analytics, 
   social:
-    - icon: fa-solid fa-envelope
+    - img: https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252100761.svg
       url: mailto:me@apollo@ecjtu.edu.cn
-    - img: https://www.svgrepo.com/download/330508/gitee.svg
+    - img: https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252036132.svg
       url: https://gitee.com/ecjtu-realsteel/
-    - icon: fab fa-github
+    - img: https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252059850.svg
       url: https://github.com/Apollo-kernel/RealSteel-website/
   # site source
   source: https://github.com/volantis-x/volantis-docs/
@@ -772,15 +772,15 @@ plugins:
     position: cover       # cover: sticky on the cover.   fixed: Fixed as background for the site.
     shuffle: true         # shuffle playlist
     duration: 8000       # Duration (ms)
-    fade: 1500            # fade duration (ms) (Not more than 1500)
+    fade: 800            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-      - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/67239FBB-E15D-4F4F-8EE8-0F1C9F3C4E7C.jpeg
-      - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper/landscape/AEB33F9D-7294-4CF1-B8C5-3020748A9D45.jpeg
-      - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/B951AE18-D431-417F-B3FE-A382403FF21B.jpeg
-      - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper/landscape/10A0FCE5-36A1-4AD0-8CF0-019259A89E03.jpeg
-      - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/B18FCBB3-67FD-48CC-B4F3-457BA145F17A.jpeg
-      - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/025.jpg
-      - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/033.jpg
+      - https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252311118.jpg
+      - https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252311034.jpg
+      - https://cdn.jsdelivr.net/gh/Apollo-kernel/PicGo-kernel/media202412252311163.jpg
+      # - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper/landscape/10A0FCE5-36A1-4AD0-8CF0-019259A89E03.jpeg
+      # - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/B18FCBB3-67FD-48CC-B4F3-457BA145F17A.jpeg
+      # - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/025.jpg
+      # - https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/033.jpg
     # duration: 10000       # Duration (ms)
     # fade: 1500            # fade duration (ms) (Not more than 1500)
     # images:               # For personal use only. At your own risk if used for commercial purposes !!!
