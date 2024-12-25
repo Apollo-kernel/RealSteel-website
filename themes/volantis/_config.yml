@@ -634,7 +634,7 @@ tag_plugins:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [aplayer, social, license, info, copyright] # analytics, 
+  layout: [aplayer, social] # analytics, 
   social:
     - icon: fa-solid fa-envelope
       url: mailto:me@apollo@ecjtu.edu.cn
