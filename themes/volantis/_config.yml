@@ -510,8 +510,8 @@ sidebar:
         #   url: /atom.xml
         - icon: fa-solid fa-envelope
           url: mailto:me@apollo@ecjtu.edu.cn
-        - img: https:www.svgrepo.com/download/330508/gitee.svg
-          url: https://gitee.com/ecjtu-realsteel
+        - img: https://www.svgrepo.com/download/330508/gitee.svg
+          url: https://gitee.com/ecjtu-realsteel/
         - icon: fab fa-github
           url: https://github.com/Apollo-kernel/RealSteel-website/
         # - icon: fa-solid fa-headphones-alt
@@ -638,8 +638,8 @@ site_footer:
   social:
     - icon: fa-solid fa-envelope
       url: mailto:me@apollo@ecjtu.edu.cn
-    - img: https:www.svgrepo.com/download/330508/gitee.svg
-      url: https://gitee.com/ecjtu-realsteel
+    - img: https://www.svgrepo.com/download/330508/gitee.svg
+      url: https://gitee.com/ecjtu-realsteel/
     - icon: fab fa-github
       url: https://github.com/Apollo-kernel/RealSteel-website/
   # site source
